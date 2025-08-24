@@ -49,7 +49,7 @@ Dedicated Vnet lB and ip for dev
 #### storageaccount.yaml This pipeline to create Azure Resource Group and Storage Account to storr state files using AZ command line. (workflow nmae - Create Storage Accounts)
 
 #### cicd.yaml This Pipeline has (Workflow Name - Mews App Build and Deployment Workflow)
-          CI - ACR and dicker image build and push to ACR after creation in Build stage
+          CI - ACR and docker image build and push to ACR after creation in Build stage
           CD - Deployment to Dev,Stage,and Prod
 
 ### Terraform Modules
